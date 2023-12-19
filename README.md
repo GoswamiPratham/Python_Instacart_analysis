@@ -1,2 +1,2 @@
 # Python_Instacart_analysis
-Used python to wrangle data, create new variables, group, aggregate and create visualizations with given data
+The project focused on Instacart, an online grocery store operating through an app. In this analysis, I utilized Python to wrangle data, create new variables, and perform grouping and aggregation. Additionally, I employed Python to generate visualizations, contributing to a comprehensive exploration of their sales data. The insights gained informed strategies for improved segmentation based on specified criteria, aiming to enhance Instacart's market approach.
